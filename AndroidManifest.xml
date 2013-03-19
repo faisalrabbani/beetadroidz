@@ -10,7 +10,7 @@
         android:targetSdkVersion="15" />
 
     <applicationsadf
-        
+        sdfsd
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
