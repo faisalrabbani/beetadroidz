@@ -6,7 +6,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-Hallao Alfa        
+        
         android:minSdkVersion="18"
         android:targetSdkVersion="15" />
 
