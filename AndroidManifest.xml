@@ -9,7 +9,7 @@
         android:minSdkVersion="18"
         android:targetSdkVersion="15" />
 
-    <application
+    <applicationsadf
         
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
