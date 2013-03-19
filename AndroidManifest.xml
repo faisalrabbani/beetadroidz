@@ -5,8 +5,7 @@
     android:versionCode="1"
     android:versionName="1.0" >
 
-    <uses-sdk
-Hallao Alfa        
+    <uses-sdk  
         android:minSdkVersion="18"
         android:targetSdkVersion="15" />
 
